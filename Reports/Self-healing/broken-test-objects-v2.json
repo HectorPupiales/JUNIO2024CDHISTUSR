@@ -1,0 +1,54 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/REP_MENSAJES/Page_05CAMDOM/div_10",
+      "brokenLocator": "//div[@id\u003d\u0027dx-cdb062ee-78ec-f773-c3d0-918d86da1a66\u0027]/div/dx-data-grid/div/div[10]/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Create Filter\u0027])[2]/following::div[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/REP_MENSAJES/Page_05CAMDOM/div_10_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/REP_MENSAJES/Page_05CAMDOM/div_ELECCIONES GENERALES 2017_dx-scrollable_6f1775",
+      "brokenLocator": "//div[@id\u003d\u0027dx-cdb062ee-78ec-f773-c3d0-918d86da1a66\u0027]/div/dx-data-grid/div/div[6]/div/div/div[2]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/dx-data-grid/div/div[6]/div/div/div[2]/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/REP_MENSAJES/Page_05CAMDOM/div_ELECCIONES GENERALES 2017_dx-scrollable_6f1775_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/REP_MENSAJES/Page_05CAMDOM/td_ELECCIONES GENERALES 2017",
+      "brokenLocator": "//div[@id\u003d\u0027dx-cdb062ee-78ec-f773-c3d0-918d86da1a66\u0027]/div/dx-data-grid/div/div[6]/div/div/div/div/table/tbody/tr[8]/td[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027ELECCIONES GENERALES 2017 SEGUNDA VUELTA\u0027])[2]/following::td[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/REP_MENSAJES/Page_05CAMDOM/td_ELECCIONES GENERALES 2017_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/REP_MENSAJES/Page_05CAMDOM/div_Suspensin de derechos polticos por CNE o TCE",
+      "brokenLocator": "//div[@id\u003d\u0027dx-437f376d-bddc-b245-9a64-371ec28bf76a\u0027]/div/div/div/div[2]/div[8]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Validación de campo\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/REP_MENSAJES/Page_05CAMDOM/div_Suspensin de derechos polticos por CNE o TCE_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/REP_MENSAJES/Page_05CAMDOM/textarea_Loading_notificacion",
+      "brokenLocator": "//textarea[@id\u003d\u0027dx_dx-85769c66-ccd8-ebec-f219-ee43638b328d_notificacion\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//dx-form[@id\u003d\u0027undefined\u0027]/div/div/div/div/div/div/div/div/div/div/div/div/div[7]/div/div/div/div/div/div/textarea",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/REP_MENSAJES/Page_05CAMDOM/textarea_Loading_notificacion_idRelative.png"
+    }
+  ]
+}

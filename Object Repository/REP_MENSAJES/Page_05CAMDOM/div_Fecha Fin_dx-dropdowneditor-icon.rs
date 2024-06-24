@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fecha Fin_dx-dropdowneditor-icon</name>
+   <tag></tag>
+   <elementGuidId>d826acea-7aa1-4c2d-aea5-69c0491c931a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dx-form[@id='undefined']/div/div/div/div/div/div/div/div/div/div/div/div/div[6]/div/div/div/div/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-dropdowneditor-input-wrapper.dx-selectbox-container > div.dx-texteditor-container > div.dx-texteditor-buttons-container > div.dx-widget.dx-button-mode-contained.dx-button-normal.dx-dropdowneditor-button > div.dx-button-content > div.dx-dropdowneditor-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Select&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9d04566-f9ff-4307-bcaa-261e83dfa4f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-dropdowneditor-icon</value>
+      <webElementGuid>072818dd-e052-49c7-8c86-2e0b44a7c929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;undefined&quot;)/div[@class=&quot;dx-layout-manager dx-widget&quot;]/div[@class=&quot;dx-widget dx-collection dx-responsivebox-screen-undefined dx-responsivebox&quot;]/div[@class=&quot;dx-box-flex dx-box dx-widget dx-collection&quot;]/div[@class=&quot;dx-item dx-box-item&quot;]/div[@class=&quot;dx-item-content dx-box-item-content&quot;]/div[@class=&quot;dx-first-row dx-first-col dx-last-col dx-last-row dx-field-item dx-col-0 dx-field-item-optional dx-field-item-has-group&quot;]/div[@class=&quot;dx-field-item-content dx-field-item-content-location-right&quot;]/div[@class=&quot;dx-form-group dx-group-colcount-1&quot;]/div[@class=&quot;dx-form-group-content&quot;]/div[@class=&quot;dx-layout-manager dx-widget&quot;]/div[@class=&quot;dx-widget dx-collection dx-responsivebox-screen-undefined dx-responsivebox&quot;]/div[@class=&quot;dx-box-flex dx-box dx-widget dx-collection&quot;]/div[@class=&quot;dx-item dx-box-item&quot;]/div[@class=&quot;dx-item-content dx-box-item-content&quot;]/div[@class=&quot;dx-first-col dx-last-col dx-field-item dx-col-0 dx-field-item-required dx-flex-layout&quot;]/div[@class=&quot;dx-field-item-content dx-field-item-content-location-right&quot;]/div[@class=&quot;dx-show-invalid-badge dx-selectbox dx-textbox dx-texteditor dx-dropdowneditor-button-visible dx-editor-outlined dx-texteditor-empty dx-widget dx-texteditor-with-label dx-dropdowneditor dx-dropdowneditor-field-clickable dx-validator dx-visibility-change-handler dx-state-active&quot;]/div[@class=&quot;dx-dropdowneditor-input-wrapper dx-selectbox-container&quot;]/div[@class=&quot;dx-texteditor-container&quot;]/div[@class=&quot;dx-texteditor-buttons-container&quot;]/div[@class=&quot;dx-widget dx-button-mode-contained dx-button-normal dx-dropdowneditor-button&quot;]/div[@class=&quot;dx-button-content&quot;]/div[@class=&quot;dx-dropdowneditor-icon&quot;]</value>
+      <webElementGuid>2eca0bb3-b1ae-488f-ae80-7cfcb1efdcf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dx-form[@id='undefined']/div/div/div/div/div/div/div/div/div/div/div/div/div[6]/div/div/div/div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>4280a0cf-67c3-42b1-b824-8639b4df0009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>e4f165aa-3852-4ef3-a29c-4302a3743354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

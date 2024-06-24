@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aceptar_1</name>
+   <tag></tag>
+   <elementGuidId>ffeb5ea9-fb1b-4d39-896c-e3b330973c8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popIngresoUsuario_btnIngresar_CD']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#popIngresoUsuario_btnIngresar_CD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#popIngresoUsuario_btnIngresar_CD</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e95cbff1-c36e-4aac-8d64-434649e7d330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxb</value>
+      <webElementGuid>3f87ff13-90ee-415a-8347-d701bb94bedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>popIngresoUsuario_btnIngresar_CD</value>
+      <webElementGuid>95ef794d-11de-400e-9205-d867a69c6b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						
+							
+						Aceptar
+					</value>
+      <webElementGuid>09457462-a27d-43a4-8dbe-6985b169a13b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popIngresoUsuario_btnIngresar_CD&quot;)</value>
+      <webElementGuid>3d793d69-6346-43ff-a9cb-d9b0795cb86d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='popIngresoUsuario_btnIngresar_CD']</value>
+      <webElementGuid>9789e319-8af0-4863-b99a-0a91f82e04a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popIngresoUsuario_btnIngresar']/div</value>
+      <webElementGuid>0b9ccb21-e22c-4424-aeab-c56a04af3135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTRASEÑA :'])[1]/following::div[2]</value>
+      <webElementGuid>fe4be6e1-7ff6-4194-85cb-f6ead4000673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USUARIO :'])[1]/following::div[2]</value>
+      <webElementGuid>a557a04a-150a-42c0-bfde-71d75cc1f655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::div[3]</value>
+      <webElementGuid>a6673882-72c4-4667-8f8f-cbce0ee3ed7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td[2]/div/div</value>
+      <webElementGuid>ce216d3b-2a9f-409d-b360-f01f039bb101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'popIngresoUsuario_btnIngresar_CD' and (text() = '
+						
+							
+						Aceptar
+					' or . = '
+						
+							
+						Aceptar
+					')]</value>
+      <webElementGuid>70dfb44a-e50b-4165-9e7f-8fab569da137</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

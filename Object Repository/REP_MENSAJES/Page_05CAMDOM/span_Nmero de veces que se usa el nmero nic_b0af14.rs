@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nmero de veces que se usa el nmero nic_b0af14</name>
+   <tag></tag>
+   <elementGuidId>c1db4e6a-a3c9-4828-80a0-3a329a8c991f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dx-data-grid[@id='gridProcesosGenerales']/div/div[6]/div/div/div/div/table/tbody/tr[20]/td[8]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.dx-command-adaptive.dx-cell-focus-disabled > span.dx-datagrid-adaptive-more</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;164 ELECCIONES SECCIONALES 2019 Y DESIGNACION DE AUTORIDADES DEL CPCCS Número de veces que se usa el número único del suministro de luz 2018-11-06T00:00:00 2020-08-07T00:00:00 Display additional data&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a8a499d5-5e50-4950-9de9-a6cd3fa0c892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-datagrid-adaptive-more</value>
+      <webElementGuid>9f2a7150-367b-4df5-9246-daac2265065d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-device-desktop dx-device-generic&quot;]/app-root[1]/div[@class=&quot;content&quot;]/app-params-mensajes[1]/html[1]/body[1]/cne-panel[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;button-container&quot;]/cne-grid[@id=&quot;gridProcesosGenerales&quot;]/dx-data-grid[@id=&quot;gridProcesosGenerales&quot;]/div[@class=&quot;dx-datagrid dx-gridbase-container dx-datagrid-borders&quot;]/div[@class=&quot;dx-datagrid-rowsview dx-scrollable dx-visibility-change-handler dx-scrollable-both dx-scrollable-simulated&quot;]/div[@class=&quot;dx-scrollable-wrapper&quot;]/div[@class=&quot;dx-scrollable-container&quot;]/div[@class=&quot;dx-scrollable-content&quot;]/div[@class=&quot;dx-datagrid-content&quot;]/table[@class=&quot;dx-datagrid-table dx-datagrid-table-fixed&quot;]/tbody[1]/tr[@class=&quot;dx-row dx-data-row dx-column-lines&quot;]/td[@class=&quot;dx-command-adaptive dx-cell-focus-disabled&quot;]/span[@class=&quot;dx-datagrid-adaptive-more&quot;]</value>
+      <webElementGuid>f2fb8c5d-b00d-4dc8-9f73-4f0a41146da8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dx-data-grid[@id='gridProcesosGenerales']/div/div[6]/div/div/div/div/table/tbody/tr[20]/td[8]/span</value>
+      <webElementGuid>98bbc76c-4b76-458f-b313-d8a00d464efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[20]/td[8]/span</value>
+      <webElementGuid>e88e856b-2897-4f6d-96c2-bfbfdc1e47fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_POST ELECTORAL</name>
+   <tag></tag>
+   <elementGuidId>b8526df6-c997-42b9-a40e-e751e0a4ef61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ASPxSplitter1_MnuModulos_DXI1_T']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ASPxSplitter1_MnuModulos_DXI1_T > span.dx-vam</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;POST ELECTORAL&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee7ebf22-d149-4749-814c-f2e92a704a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-vam</value>
+      <webElementGuid>fddf2fc8-7035-47d9-b421-c48f5ebe3590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>POST ELECTORAL</value>
+      <webElementGuid>7d14da3d-f0ab-453d-9b80-0c09fb520c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ASPxSplitter1_MnuModulos_DXI1_T&quot;)/span[@class=&quot;dx-vam&quot;]</value>
+      <webElementGuid>46a3d797-918c-4312-b93a-fffe0fec93af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ASPxSplitter1_MnuModulos_DXI1_T']/span</value>
+      <webElementGuid>bda138cc-4e99-409b-aa2e-8074db0bfa24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USUARIOS'])[1]/following::span[1]</value>
+      <webElementGuid>da196eb0-5741-438d-991c-2b2348f20341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[1]/following::span[2]</value>
+      <webElementGuid>d694d5b7-1000-48f2-a087-3b202f5fb28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USUARIOS'])[2]/preceding::span[2]</value>
+      <webElementGuid>adaffa84-80d5-42d2-b04a-6a4da57e1afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADMINISTRACIÓN DE USUARIOS'])[1]/preceding::span[4]</value>
+      <webElementGuid>7c2cd69e-e64a-406c-ac95-96517f477882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='POST ELECTORAL']/parent::*</value>
+      <webElementGuid>c2e3b0eb-3487-4ab1-a804-e3f44d2de547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/span</value>
+      <webElementGuid>7c4a085e-d816-4b86-8cdf-e0ce02dd9dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'POST ELECTORAL' or . = 'POST ELECTORAL')]</value>
+      <webElementGuid>0e4a8e79-8c1a-45ad-8e22-488fad0e1cc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

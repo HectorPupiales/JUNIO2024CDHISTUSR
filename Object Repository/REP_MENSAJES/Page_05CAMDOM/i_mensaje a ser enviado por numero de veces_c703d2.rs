@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_mensaje a ser enviado por numero de veces_c703d2</name>
+   <tag></tag>
+   <elementGuidId>3e6d9eb0-d578-4d6c-b3fa-95b9423bda18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dx-data-grid[@id='gridProcesosGenerales']/div/div[6]/div/div/div/div/table/tbody/tr[21]/td/div/div/div/div/div[2]/div/div/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-widget.dx-button.dx-button-mode-contained.dx-button-normal.dx-button-has-icon.dx-state-focused.dx-state-active > div.dx-button-content > i.dx-icon.dx-icon-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>05a1285a-f7ce-458c-8a04-7677461dcc5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-icon dx-icon-edit</value>
+      <webElementGuid>36fb403d-2eb0-4911-9dd9-96363826e6e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-device-desktop dx-device-generic&quot;]/app-root[1]/div[@class=&quot;content&quot;]/app-params-mensajes[1]/html[1]/body[1]/cne-panel[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;button-container&quot;]/cne-grid[@id=&quot;gridProcesosGenerales&quot;]/dx-data-grid[@id=&quot;gridProcesosGenerales&quot;]/div[@class=&quot;dx-datagrid dx-gridbase-container dx-datagrid-borders&quot;]/div[@class=&quot;dx-datagrid-rowsview dx-scrollable dx-visibility-change-handler dx-scrollable-both dx-scrollable-simulated&quot;]/div[@class=&quot;dx-scrollable-wrapper&quot;]/div[@class=&quot;dx-scrollable-container&quot;]/div[@class=&quot;dx-scrollable-content&quot;]/div[@class=&quot;dx-datagrid-content&quot;]/table[@class=&quot;dx-datagrid-table dx-datagrid-table-fixed&quot;]/tbody[1]/tr[@class=&quot;dx-row dx-column-lines dx-master-detail-row dx-adaptive-detail-row&quot;]/td[@class=&quot;dx-cell-focus-disabled dx-master-detail-cell&quot;]/div[@class=&quot;dx-form dx-widget dx-visibility-change-handler&quot;]/div[@class=&quot;dx-layout-manager dx-widget&quot;]/div[@class=&quot;dx-widget dx-collection dx-responsivebox dx-responsivebox-screen-lg&quot;]/div[@class=&quot;dx-box-flex dx-box dx-widget dx-collection&quot;]/div[@class=&quot;dx-item dx-box-item&quot;]/div[@class=&quot;dx-item-content dx-box-item-content dx-root-simple-item&quot;]/div[@class=&quot;dx-first-col dx-last-col dx-last-row dx-field-item dx-col-0 dx-field-item-optional dx-flex-layout&quot;]/div[@class=&quot;dx-field-item-content dx-field-item-content-location-right&quot;]/div[@class=&quot;dx-widget dx-button dx-button-mode-contained dx-button-normal dx-button-has-icon dx-state-focused dx-state-active&quot;]/div[@class=&quot;dx-button-content&quot;]/i[@class=&quot;dx-icon dx-icon-edit&quot;]</value>
+      <webElementGuid>8e6d2a6d-0adb-4c4a-a9e6-97627f89406e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dx-data-grid[@id='gridProcesosGenerales']/div/div[6]/div/div/div/div/table/tbody/tr[21]/td/div/div/div/div/div[2]/div/div/div/div/div/i</value>
+      <webElementGuid>018129f5-6b54-4edb-b7d8-5f991a18abca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/i</value>
+      <webElementGuid>8f47c12a-d16b-454c-91fb-9c7b64d290fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

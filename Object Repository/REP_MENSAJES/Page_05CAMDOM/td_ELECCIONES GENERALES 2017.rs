@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ELECCIONES GENERALES 2017</name>
+   <tag></tag>
+   <elementGuidId>39fd3601-dee7-4512-b092-52f90c2b2f79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dx-cdb062ee-78ec-f773-c3d0-918d86da1a66']/div/dx-data-grid/div/div[6]/div/div/div/div/table/tbody/tr[8]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.dx-row.dx-data-row.dx-column-lines > td.dx-cell-focus-disabled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Data grid with 8 rows and 2 columns&quot;i >> internal:role=gridcell[name=&quot;ELECCIONES GENERALES 2017&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>87f2c167-682b-49be-97b7-16ee826bb620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>dx-col-8</value>
+      <webElementGuid>653d15d9-7895-4682-8178-1885ed177838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>19d0884c-99e9-470b-b8b7-61efb6cb6e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-colindex</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>b246237e-0ab7-4564-ad1b-9e912dc049bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ee8cc602-82fb-4ec9-a06a-0accc2430df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-cell-focus-disabled</value>
+      <webElementGuid>ed9617df-d370-476d-8649-5886bc21ec09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ELECCIONES GENERALES 2017</value>
+      <webElementGuid>41798b05-5916-48be-b09a-c7b397227207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dx-cdb062ee-78ec-f773-c3d0-918d86da1a66&quot;)/div[@class=&quot;dx-template-wrapper&quot;]/dx-data-grid[@class=&quot;dx-widget dx-visibility-change-handler&quot;]/div[@class=&quot;dx-datagrid dx-gridbase-container dx-datagrid-borders&quot;]/div[@class=&quot;dx-datagrid-rowsview dx-datagrid-nowrap dx-scrollable dx-visibility-change-handler dx-scrollable-both dx-scrollable-simulated&quot;]/div[@class=&quot;dx-scrollable-wrapper&quot;]/div[@class=&quot;dx-scrollable-container&quot;]/div[@class=&quot;dx-scrollable-content&quot;]/div[@class=&quot;dx-datagrid-content&quot;]/table[@class=&quot;dx-datagrid-table dx-datagrid-table-fixed&quot;]/tbody[1]/tr[@class=&quot;dx-row dx-data-row dx-column-lines&quot;]/td[@class=&quot;dx-cell-focus-disabled&quot;]</value>
+      <webElementGuid>ac93fb6c-d547-44e1-83ec-dc5a06d440c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dx-cdb062ee-78ec-f773-c3d0-918d86da1a66']/div/dx-data-grid/div/div[6]/div/div/div/div/table/tbody/tr[8]/td[2]</value>
+      <webElementGuid>13f94ab7-90d1-48d2-a4c0-51d5dcc52c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECCIONES GENERALES 2017 SEGUNDA VUELTA'])[2]/following::td[2]</value>
+      <webElementGuid>895a11c2-86b1-4abe-9085-6a0f18558888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECCIONES SECCIONALES 2019 Y DESIGNACION DE AUTORIDADES DEL CPCCS'])[4]/following::td[4]</value>
+      <webElementGuid>ac290423-8fb8-4759-baf7-c7b70b1c89f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Filter'])[2]/preceding::td[3]</value>
+      <webElementGuid>448c96f6-119f-465d-a08d-4aeb920efb3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page 1 of 1 (8 items)'])[1]/preceding::td[3]</value>
+      <webElementGuid>b4d6ca9b-c88c-489d-b2eb-f7c3d0ead26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/dx-data-grid/div/div[6]/div/div/div/div/table/tbody/tr[8]/td[2]</value>
+      <webElementGuid>3ae96b69-c7fd-4652-805d-c0c329806eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ELECCIONES GENERALES 2017' or . = 'ELECCIONES GENERALES 2017')]</value>
+      <webElementGuid>6b9f97fc-5460-4888-9006-f94fb3339173</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

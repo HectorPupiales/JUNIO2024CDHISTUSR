@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Crear</name>
+   <tag></tag>
+   <elementGuidId>7a92cc9a-45b8-4c31-a277-5a19d4e2a6ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Parametrizaciones de Mensajes'])[2]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-button-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Crear&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76f1ec08-0f0a-475c-8478-bc6ccad5e3dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-button-content</value>
+      <webElementGuid>0bd55327-a6e3-455b-89f5-e9d8342b80b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crear</value>
+      <webElementGuid>2f1912cc-5c88-4b60-a866-c0e610497c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-device-desktop dx-device-generic&quot;]/app-root[1]/div[@class=&quot;content&quot;]/app-params-mensajes[1]/html[1]/body[1]/cne-panel[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;button-container&quot;]/cne-button[1]/dx-button[@class=&quot;dx-widget dx-button dx-button-mode-contained dx-button-default dx-button-has-text dx-button-has-icon dx-state-focused dx-state-active&quot;]/div[@class=&quot;dx-button-content&quot;]</value>
+      <webElementGuid>e731c290-dff0-4af3-92ae-73ef3388121f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parametrizaciones de Mensajes'])[2]/following::div[3]</value>
+      <webElementGuid>ed77a54e-94af-448d-bf0c-9dfa7e197b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código de Mensaje'])[1]/preceding::div[15]</value>
+      <webElementGuid>d1fcac2e-d9aa-4295-a9ed-ea1dd275f57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dx-button/div</value>
+      <webElementGuid>4b3aa830-ed19-499f-8959-03c1b2cf22c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Crear' or . = 'Crear')]</value>
+      <webElementGuid>75be703a-f62c-4d9a-a155-b7f8cc8a0bd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aceptar</name>
+   <tag></tag>
+   <elementGuidId>2abee9b3-0ea4-4b27-a87c-5e9529eb0772</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popProceso_btnAceptar_CD']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#popProceso_btnAceptar_CD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#popProceso_btnAceptar_CD</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>87df3d07-c637-4b9d-af4f-a13bf15d75c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxb</value>
+      <webElementGuid>a75d87bd-0636-4d53-93f7-8a1b1b58d545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>popProceso_btnAceptar_CD</value>
+      <webElementGuid>19c8a7ab-1f43-4457-a954-de6092ab7ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						
+							
+						Aceptar
+					</value>
+      <webElementGuid>f67ee0f9-d09b-4cb6-acb2-26d1a65a9e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popProceso_btnAceptar_CD&quot;)</value>
+      <webElementGuid>4c16631d-a64d-4191-b8b8-81963936d49a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='popProceso_btnAceptar_CD']</value>
+      <webElementGuid>e60508ec-ce50-42a8-964d-c5de344e4cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popProceso_btnAceptar']/div</value>
+      <webElementGuid>a3f20997-8184-419d-ad44-564950531102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cargando…'])[1]/following::div[3]</value>
+      <webElementGuid>45f3f727-9785-4117-a0bd-d93ba45cd6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página 1 de 6 (29 elementos)'])[1]/following::div[3]</value>
+      <webElementGuid>00c33315-5110-4435-8a3d-c7a05bb4da41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESO DE USUARIO'])[1]/preceding::div[3]</value>
+      <webElementGuid>a92ddfe6-904d-4ed1-b0b3-02fd7ac9252d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/div</value>
+      <webElementGuid>60e4a411-ab48-4ded-a4dc-4eca3745d2b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'popProceso_btnAceptar_CD' and (text() = '
+						
+							
+						Aceptar
+					' or . = '
+						
+							
+						Aceptar
+					')]</value>
+      <webElementGuid>b2dca016-fbce-402d-bb23-294877dfa74c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
